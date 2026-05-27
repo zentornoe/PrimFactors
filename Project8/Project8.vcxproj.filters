@@ -24,7 +24,7 @@
     <ClCompile Include="prime-factors.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="prim-factors_test.cpp">
+    <ClCompile Include="prime-factors_test.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
